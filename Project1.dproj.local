@@ -2,11 +2,11 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>1899.12.30 00:00:00.000.931,=C:\Users\az\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.917,C:\Users\az\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\az\Desktop\code\Delphi\Calc\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.486,=C:\Users\az\Desktop\code\Delphi\Calc\Unit3.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.384,C:\Users\az\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\az\Desktop\code\Delphi\Calc\Project1.dproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.917,C:\Users\az\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\az\Desktop\code\Delphi\Calc\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.384,C:\Users\az\Desktop\code\Delphi\Calc\Project1.dproj=C:\Users\az\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.847,E:\Code\Delphi\Calc\Project1.dproj=E:\delphi_work\Calc\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.917,C:\Users\az\Desktop\code\Delphi\Calc\Unit1.dfm=C:\Users\az\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.917,C:\Users\az\Desktop\code\Delphi\Calc\Unit1.pas=C:\Users\az\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.440,=C:\Users\az\Desktop\code\Delphi\Calc\Unit2.pas</Transaction>
-    <Transaction>2024.08.19 23:49:29.847,E:\delphi_work\Calc\Project1.dproj=E:\Code\Delphi\Calc\Project1.dproj</Transaction>
   </Transactions>
 </BorlandProject>
